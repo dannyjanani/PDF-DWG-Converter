@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8A3822E9-00FE-4000-A44B-9FD67FD1A412}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DWGConverter VBA/Form1.vb">
+    <Files>
+      <File FileName="DWGConverter VBA/Form1.vb" Line="7" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DWGConverter VBA" expanded="True">
+            <Node name="DWGConverter VBA" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="My Project" expanded="True">
+                <Node name="Application.myapp" expanded="True" />
+              </Node>
+              <Node name="Form1.vb" expanded="True" />
+              <Node name="packages.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DWGConverter_220VBA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

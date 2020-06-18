@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B1BFDFF4-767B-48E5-85F8-0B19281BC928}|Default">
+  <MonoDevelop.Ide.ItemProperties.PDFtoDWG_220VBA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PDFtoDWG VBA/Form1.Designer.vb">
+    <Files>
+      <File FileName="PDFtoDWG VBA/Form1.vb" Line="6" Column="125" />
+      <File FileName="PDFtoDWG VBA/Form1.Designer.vb" Line="214" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PDFtoDWG VBA" expanded="True">
+            <Node name="PDFtoDWG VBA" expanded="True">
+              <Node name="My Project" expanded="True">
+                <Node name="Resources.resx" expanded="True" />
+              </Node>
+              <Node name="Form1.vb" expanded="True">
+                <Node name="Form1.Designer.vb" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
