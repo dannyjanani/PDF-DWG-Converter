@@ -32,7 +32,7 @@ At Con Edison, there were many times where they received PDF drawings from contr
 
 How it Works!    
 :-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/pdfdwg.png)](https://vimeo.com/458374664)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/PDF-DWG-Thumbnail.png)](https://vimeo.com/458374664)
 
 ## Skills Used
   
