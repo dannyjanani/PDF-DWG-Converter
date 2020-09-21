@@ -28,6 +28,12 @@ At Con Edison, there were many times where they received PDF drawings from contr
   * An email will be sent to the user with a link to the files.
   * The files will be deleted after 7 days as specified by the admin.
 
+## Gallery
+
+How it Works!    
+:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/pdfdwg.png)](https://vimeo.com/458374664)
+
 ## Skills Used
   
 * Software:
